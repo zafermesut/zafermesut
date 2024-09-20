@@ -50,3 +50,22 @@
 </div>
 
 ###
+  <div align="left">
+  <ul>
+    <li>
+      <a href= "https://huggingface.co/zafermbilen">
+        Hugging Face
+      </a>
+    </li>
+    <li>
+      <a href= "https://www.kaggle.com/zafermesutblen">
+        Kaggle
+      </a>
+    </li>
+  </ul>
+  
+  
+</div>
+  
+  
+###
