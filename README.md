@@ -46,9 +46,6 @@
   <a href="https://x.com/hidro_morfik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-   <a href="https://huggingface.co/zafermbilen" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge](https://w7.pngwing.com/pngs/86/980/png-transparent-hugging-face-logo-tech-companies.png)" height="35" alt="huggingface logo"  />
-  </a>
   
 </div>
 
