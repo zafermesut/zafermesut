@@ -8,10 +8,6 @@
   <a href="https://github.com/zafermesut">
       <img src="https://github-readme-stats.vercel.app/api?username=zafermesut&show_icons=true" height="150" alt="stats graph"  />
   </a>
-  
-  <a href="https://github.com/zafermesut">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zafermesut&show_icons=true" height="150" alt="languages graph"  />
-  </a>
 </div>
 
 ###
@@ -20,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -54,23 +50,6 @@
   
 </div>
 
-###
-  <div align="left">
-  <ul>
-    <li>
-      <a href= "https://huggingface.co/zafermbilen">
-        Hugging Face
-      </a>
-    </li>
-    <li>
-      <a href= "https://www.kaggle.com/zafermesutblen">
-        Kaggle
-      </a>
-    </li>
-  </ul>
-  
-  
-</div>
   
   
 ###
