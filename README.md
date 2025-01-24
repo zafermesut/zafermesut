@@ -2,7 +2,7 @@
 <h2 align="left">Zafer Mesut Bilen</h2>  
 
 <h2 align="left">
-  <a href="https://enucuzawebsite.com/">
+  <a href="https://enucuzawebsite.com/" target="blank">
       <img align="left" height="30" src="https://avatars.githubusercontent.com/u/194162538?s=200&v=4"  />
       En Ucuza Website
   </a>
