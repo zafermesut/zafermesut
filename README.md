@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/zafermesut">
-      <img src="https://github-readme-stats.vercel.app/api?username=zafermesut&show_icons=true" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=zafermesut&show_icons=true&count_private=true" height="150" alt="stats graph"  />
   </a>
 </div>
 
