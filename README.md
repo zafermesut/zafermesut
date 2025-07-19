@@ -11,14 +11,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/zafermesut">
-      <img src="https://github-readme-stats.vercel.app/api?username=zafermesut&show_icons=true&count_private=true" height="150" alt="stats graph"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/86682206?v=4"  />
 
 ###
