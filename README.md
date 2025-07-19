@@ -1,49 +1,17 @@
 
-<h2 align="left">Zafer Mesut Bilen</h2>  
+# Zafer Mesut Bilen
+👉  Engineer of Something That Computes Numbers
 
-<h2 align="left">
-  <a href="https://enucuzawebsite.com/" target="_blank" rel="noopener noreferrer">
-      <img align="left" height="30" src="https://avatars.githubusercontent.com/u/194162538?s=200&v=4"  />
-      En Ucuza Website
-  </a>
-</h2>
+## 🛠 Skills
+PHP, Laravel, Livewire, JavaScript..
+
+Python, Machine Learning, Deep Learning, AI Tools..
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hidro_morfik)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafermesutbilen/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https:/bilen.dev/)
 
 
-###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/86682206?v=4"  />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/zafermesutb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/zafermesutbilen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@wildones.zafer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://x.com/hidro_morfik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  
-</div>
-
-  
-  
-###
